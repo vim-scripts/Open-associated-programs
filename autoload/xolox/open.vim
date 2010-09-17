@@ -2,7 +2,10 @@
 " Author: Peter Odding <peter@peterodding.com>
 " Last Change: September 18, 2010
 " URL: http://peterodding.com/code/vim/open-external-location/
-" Version: 1.0
+" Version: 1.1
+
+" Support for automatic update using the GLVS plug-in.
+" GetLatestVimScripts: 3242 1 :AutoInstall: open-external-location.zip
 
 if !exists('s:script')
   let s:script = expand('<sfile>:p:~')

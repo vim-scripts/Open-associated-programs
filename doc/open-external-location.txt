@@ -61,7 +61,7 @@ References ~
 [1] http://peterodding.com/code/vim/shell/
 [2] http://peterodding.com/code/vim/downloads/open-external-location
 [3] http://en.wikipedia.org/wiki/Dynamic-link_library
-[4] http://www.vim.org/scripts/script.php?script_id=0
+[4] http://www.vim.org/scripts/script.php?script_id=3242
 [5] http://en.wikipedia.org/wiki/MIT_License
 
 vim: syntax=help nospell
