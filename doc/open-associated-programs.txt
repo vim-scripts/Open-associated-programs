@@ -1,7 +1,7 @@
-*open-external-location.txt*  Open files and web pages in your preferred applications from Vim
+*open-associated-programs.txt*  Open files and web pages in associated programs from Vim
 
 The 'open.vim' plug-in knows how to open files, directories, URLs and e-mail
-addresses from inside Vim using your preferred applications. It should work on
+addresses from inside Vim using the associated programs. It should work on
 Windows, Mac OS X and most Linux installations.
 
 This plug-in doesn't define any mappings or commands so that other Vim
@@ -45,8 +45,8 @@ Contact ~
 
 If you have questions, bug reports, suggestions, etc. the author can be
 contacted at peter@peterodding.com. The latest version is available at
-http://peterodding.com/code/vim/open-external-location/ and
-http://github.com/xolox/vim-open-external-location. If you like the plug-in
+http://peterodding.com/code/vim/open-associated-programs/ and
+http://github.com/xolox/vim-open-associated-programs. If you like the plug-in
 please vote for it on www.vim.org [4].
 
 ==============================================================================
@@ -59,7 +59,7 @@ This software is licensed under the MIT license [5].
 References ~
 
 [1] http://peterodding.com/code/vim/shell/
-[2] http://peterodding.com/code/vim/downloads/open-external-location
+[2] http://peterodding.com/code/vim/downloads/open-associated-programs
 [3] http://en.wikipedia.org/wiki/Dynamic-link_library
 [4] http://www.vim.org/scripts/script.php?script_id=3242
 [5] http://en.wikipedia.org/wiki/MIT_License
